@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WES
 
 You can use the [editor on GitHub](https://github.com/Rockycs027/WFS-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
